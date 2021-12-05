@@ -1,6 +1,7 @@
 package be.intecbrussel.householdwindyproject.config;
 
 import be.intecbrussel.householdwindyproject.service.*;
+import be.intecbrussel.householdwindyproject.service.enums.Tool;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
